@@ -1,0 +1,6 @@
+ttable
+*.out
+*.o
+./build
+./build/*
+
